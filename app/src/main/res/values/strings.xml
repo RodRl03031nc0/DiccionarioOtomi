@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Diccionario Otomi - Hñähñu</string>
+    <string name="image_description">imagen</string>
+    <string name="main_opt_spanish">Español</string>
+    <string name="main_opt_otomi">Otomi</string>
+    <string name="main_hint_search">Buscar</string>
+    <string name="main_btn_translate_spanish">Traducir</string>
+    <string name="main_btn_translate_otomi">`ra`tsi</string>
+
+    <string name="main_msg_empty">Ingrese una búsqueda</string>
+    <string name="main_msg_not_found">Búsqueda no encontrada</string>
+</resources>
